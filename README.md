@@ -1,4 +1,4 @@
-# Web Design Project: Demo Inventory and Transport Website
+# Web Design Project: Demo Logistics and Transport Website
 
 ### Course: Foundations of Multimedia & Web Design (BIT Weekend L200)
 
