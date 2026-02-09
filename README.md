@@ -1,11 +1,16 @@
-This is a transports and inventory demo website for Foundations of Multimedia and web design project work
+# Web Design Project: Demo Inventory and Transport Website
 
-By: Prince Owusu
+### Course: Foundations of Multimedia & Web Design (BIT Weekend L200)
 
-ID: 2425401940
 
-TITLE: FOUNDATIONS OF MULTIMEDIA AND WEB DESIGN
+### You can view the completed website by clicking the link below: 
 
-SESSION: BIT WEEKEND L200
+##### https://princeowusubit.github.io/orjtransportandlogistics/
 
-LECTURER: MR. EBENEZER AKAGLO
+### Student Information
+
+#### Name: Prince Owusu
+
+#### Student ID: 2425401940
+
+#### Lecturer: Dr. Ebenezer Akaglo
